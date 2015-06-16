@@ -19,7 +19,7 @@ module ISO3166
       @data = {}
       codes.each do |alpha2|
         @data[alpha2] = load(['data', 'countries', "#{alpha2}.yaml"])[alpha2]
-        @data[alpha2] = @data[alpha2].merge(translations[alpha2])
+        @data[alpha2] = @data[alpha2].merge(translations[alpha2] || {})
       end
       @data
     end
