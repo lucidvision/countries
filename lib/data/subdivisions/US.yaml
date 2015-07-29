@@ -1,7 +1,8 @@
 ---
 AA:
   name: Armed Forces Americas
-  names: Armed Forces Americas
+  names:
+  - Forces armées des Amériques
   latitude: 33.8934985
   longitude: -117.2732567
   min_latitude: 33.8403275
@@ -10,12 +11,14 @@ AA:
   max_longitude: -117.2498013
 AE:
   name: Armed Forces Europe
-  names: Armed Forces Europe
+  names:
+  - Armed Forces Europe
   latitude: 59.90441850000001
   longitude: 10.7408094
 AK:
   name: Alaska
-  names: Alaska
+  names:
+  - Alaska
   latitude: 64.2008413
   longitude: -149.4936733
   min_latitude: 51.214766
@@ -24,7 +27,8 @@ AK:
   max_longitude: -129.9945562
 AL:
   name: Alabama
-  names: Alabama
+  names:
+  - Alabama
   latitude: 32.3182314
   longitude: -86.902298
   min_latitude: 30.1941334
@@ -33,10 +37,11 @@ AL:
   max_longitude: -84.888246
 AP:
   name: Armed Forces Pacific
-  names: Armed Forces Pacific
+  names: Les forces armées du Pacifique
 AR:
   name: Arkansas
-  names: Arkansas
+  names:
+  - Arkansas
   latitude: 35.20105
   longitude: -91.8318334
   min_latitude: 33.0041059
@@ -46,12 +51,14 @@ AR:
 AS:
   comments: see also separate entry under AS
   name: American Samoa
-  names: American Samoa
+  names:
+  - Samoa Américaines
   latitude: 21.3239718
   longitude: -157.876498
 AZ:
   name: Arizona
-  names: Arizona
+  names:
+  - Arizona
   latitude: 34.0489281
   longitude: -111.0937311
   min_latitude: 31.3321771
@@ -62,7 +69,6 @@ CA:
   name: California
   names:
   - Californie
-  - Kalifornien
   latitude: 36.778261
   longitude: -119.4179324
   min_latitude: 32.5342321
@@ -71,7 +77,8 @@ CA:
   max_longitude: -114.131211
 CO:
   name: Colorado
-  names: Colorado
+  names:
+  - Colorado
   latitude: 39.5500507
   longitude: -105.7820674
   min_latitude: 36.992424
@@ -80,7 +87,8 @@ CO:
   max_longitude: -102.040878
 CT:
   name: Connecticut
-  names: Connecticut
+  names:
+  - Connecticut
   latitude: 41.6032207
   longitude: -73.087749
   min_latitude: 40.9869801
@@ -89,7 +97,8 @@ CT:
   max_longitude: -71.787239
 DC:
   name: District of Columbia
-  names: District of Columbia
+  names:
+  - District de Columbia
   latitude: 38.9071923
   longitude: -77.0368707
   min_latitude: 38.8031495
@@ -98,7 +107,8 @@ DC:
   max_longitude: -76.909393
 DE:
   name: Delaware
-  names: Delaware
+  names:
+  - Delaware
   latitude: 38.9108325
   longitude: -75.52766989999999
   min_latitude: 38.451018
@@ -107,7 +117,8 @@ DE:
   max_longitude: -75.04869339999999
 FL:
   name: Florida
-  names: Florida
+  names:
+  - Floride
   latitude: 27.6648274
   longitude: -81.5157535
   min_latitude: -90
@@ -116,7 +127,8 @@ FL:
   max_longitude: 180
 GA:
   name: Georgia
-  names: Georgia
+  names:
+  - Géorgie
   latitude: 32.1656221
   longitude: -82.9000751
   min_latitude: 30.3555908
@@ -126,12 +138,14 @@ GA:
 GU:
   comments: see also separate entry under GU
   name: Guam
-  names: Guam
+  names:
+  - Guam
   latitude: 36.90194
   longitude: -89.82361
 HI:
   name: Hawaii
-  names: Hawaii
+  names:
+  - Hawaii
   latitude: 19.8967662
   longitude: -155.5827818
   min_latitude: 18.9108109
@@ -140,7 +154,8 @@ HI:
   max_longitude: -154.8067783
 IA:
   name: Iowa
-  names: Iowa
+  names:
+  - Iowa
   latitude: 41.8780025
   longitude: -93.097702
   min_latitude: 40.375437
@@ -149,7 +164,8 @@ IA:
   max_longitude: -90.1400609
 ID:
   name: Idaho
-  names: Idaho
+  names:
+  - Idaho
   latitude: 44.0682019
   longitude: -114.7420408
   min_latitude: 41.9880051
@@ -158,7 +174,8 @@ ID:
   max_longitude: -111.043495
 IL:
   name: Illinois
-  names: Illinois
+  names:
+  - Illinois
   latitude: 40.6331249
   longitude: -89.3985283
   min_latitude: 36.970298
@@ -167,7 +184,8 @@ IL:
   max_longitude: -87.4951991
 IN:
   name: Indiana
-  names: Indiana
+  names:
+  - Indiana
   latitude: 40.2671941
   longitude: -86.1349019
   min_latitude: 37.7717419
@@ -176,7 +194,8 @@ IN:
   max_longitude: -84.784662
 KS:
   name: Kansas
-  names: Kansas
+  names:
+  - Kansas
   latitude: 39.011902
   longitude: -98.4842465
   min_latitude: 36.9930159
@@ -185,7 +204,8 @@ KS:
   max_longitude: -94.588387
 KY:
   name: Kentucky
-  names: Kentucky
+  names:
+  - Kentucky
   latitude: 37.8393332
   longitude: -84.2700179
   min_latitude: 36.4971289
@@ -194,7 +214,8 @@ KY:
   max_longitude: -81.9649708
 LA:
   name: Louisiana
-  names: Louisiana
+  names:
+  - Louisiane
   latitude: 30.9842977
   longitude: -91.96233269999999
   min_latitude: 28.9254296
@@ -203,7 +224,8 @@ LA:
   max_longitude: -88.8162401
 MA:
   name: Massachusetts
-  names: Massachusetts
+  names:
+  - Massachusetts
   latitude: 42.4072107
   longitude: -71.3824374
   min_latitude: 41.2390448
@@ -212,7 +234,8 @@ MA:
   max_longitude: -69.92855109999999
 MD:
   name: Maryland
-  names: Maryland
+  names:
+  - Maryland
   latitude: 39.0457549
   longitude: -76.64127119999999
   min_latitude: 37.8895135
@@ -221,7 +244,8 @@ MD:
   max_longitude: -75.04918119999999
 ME:
   name: Maine
-  names: Maine
+  names:
+  - Maine
   latitude: 45.253783
   longitude: -69.4454689
   min_latitude: 42.9747059
@@ -230,7 +254,8 @@ ME:
   max_longitude: -66.94539720000002
 MI:
   name: Michigan
-  names: Michigan
+  names:
+  - Michigan
   latitude: 44.3148443
   longitude: -85.60236429999999
   min_latitude: 41.696118
@@ -239,7 +264,8 @@ MI:
   max_longitude: -82.3990376
 MN:
   name: Minnesota
-  names: Minnesota
+  names:
+  - Minnesota
   latitude: 46.729553
   longitude: -94.6858998
   min_latitude: 43.499361
@@ -248,7 +274,8 @@ MN:
   max_longitude: -89.49183339999999
 MO:
   name: Missouri
-  names: Missouri
+  names:
+  - Missouri
   latitude: 37.9642529
   longitude: -91.8318334
   min_latitude: 35.9956829
@@ -258,12 +285,13 @@ MO:
 MP:
   comment: see also separate entry under MP
   name: Northern Mariana Islands
-  names: Northern Mariana Islands
+  names: Îles Mariannes du Nord
   latitude: 15.1466435
   longitude: 145.7023038
 MS:
   name: Mississippi
-  names: Mississippi
+  names:
+  - Mississippi
   latitude: 32.3546679
   longitude: -89.3985283
   min_latitude: 30.1741032
@@ -272,7 +300,8 @@ MS:
   max_longitude: -88.0994303
 MT:
   name: Montana
-  names: Montana
+  names:
+  - Montana
   latitude: 46.8796822
   longitude: -110.3625658
   min_latitude: 44.3582089
@@ -281,7 +310,8 @@ MT:
   max_longitude: -104.039563
 NC:
   name: North Carolina
-  names: North Carolina
+  names:
+  - Caroline du Nord
   latitude: 35.7595731
   longitude: -79.01929969999999
   min_latitude: 33.8409689
@@ -290,7 +320,8 @@ NC:
   max_longitude: -75.4599515
 ND:
   name: North Dakota
-  names: North Dakota
+  names:
+  - Dakota du Nord
   latitude: 47.5514926
   longitude: -101.0020119
   min_latitude: 45.9350719
@@ -299,7 +330,8 @@ ND:
   max_longitude: -96.554491
 NE:
   name: Nebraska
-  names: Nebraska
+  names:
+  - Nebraska
   latitude: 41.4925374
   longitude: -99.9018131
   min_latitude: 39.999932
@@ -308,7 +340,8 @@ NE:
   max_longitude: -95.30829000000001
 NH:
   name: New Hampshire
-  names: New Hampshire
+  names:
+  - New Hampshire
   latitude: 43.1938516
   longitude: -71.5723953
   min_latitude: 42.696985
@@ -317,7 +350,8 @@ NH:
   max_longitude: -70.602656
 NJ:
   name: New Jersey
-  names: New Jersey
+  names:
+  - New Jersey
   latitude: 40.0583238
   longitude: -74.4056612
   min_latitude: 38.9285589
@@ -326,7 +360,8 @@ NJ:
   max_longitude: -73.9024391
 NM:
   name: New Mexico
-  names: New Mexico
+  names:
+  - Nouveau-Mexique
   latitude: 34.5199402
   longitude: -105.8700901
   min_latitude: 31.332172
@@ -335,7 +370,8 @@ NM:
   max_longitude: -103.001964
 NV:
   name: Nevada
-  names: Nevada
+  names:
+  - Nevada
   latitude: 38.8026097
   longitude: -116.419389
   min_latitude: 35.001857
@@ -344,7 +380,8 @@ NV:
   max_longitude: -114.0396479
 NY:
   name: New York
-  names: New York
+  names:
+  - New York
   latitude: 43.2994285
   longitude: -74.21793260000001
   min_latitude: 40.4913686
@@ -353,7 +390,8 @@ NY:
   max_longitude: -71.8562755
 OH:
   name: Ohio
-  names: Ohio
+  names:
+  - Ohio
   latitude: 40.4172871
   longitude: -82.90712300000001
   min_latitude: 38.4034229
@@ -362,7 +400,8 @@ OH:
   max_longitude: -80.5182
 OK:
   name: Oklahoma
-  names: Oklahoma
+  names:
+  - Oklahoma
   latitude: 35.0077519
   longitude: -97.092877
   min_latitude: 33.615787
@@ -371,7 +410,8 @@ OK:
   max_longitude: -94.430662
 OR:
   name: Oregon
-  names: Oregon
+  names:
+  - Oregon
   latitude: 43.8041334
   longitude: -120.5542012
   min_latitude: 41.9917941
@@ -380,7 +420,8 @@ OR:
   max_longitude: -116.463262
 PA:
   name: Pennsylvania
-  names: Pennsylvania
+  names:
+  - Pennsylvanie
   latitude: 41.2033216
   longitude: -77.1945247
   min_latitude: 39.7197989
@@ -390,12 +431,14 @@ PA:
 PR:
   comments: see also separate entry under PR
   name: Puerto Rico
-  names: Puerto Rico
+  names:
+  - Porto Rico
   latitude: 32.7290818
   longitude: -117.1517016
 RI:
   name: Rhode Island
-  names: Rhode Island
+  names:
+  - Rhode Island
   latitude: 41.5800945
   longitude: -71.4774291
   min_latitude: 41.1466563
@@ -404,7 +447,8 @@ RI:
   max_longitude: -71.1205471
 SC:
   name: South Carolina
-  names: South Carolina
+  names:
+  - Caroline du Sud
   latitude: 33.836081
   longitude: -81.1637245
   min_latitude: 32.0345599
@@ -413,7 +457,8 @@ SC:
   max_longitude: -78.5408175
 SD:
   name: South Dakota
-  names: South Dakota
+  names:
+  - Dakota du Sud
   latitude: 43.9695148
   longitude: -99.9018131
   min_latitude: 42.479686
@@ -422,7 +467,8 @@ SD:
   max_longitude: -96.436589
 TN:
   name: Tennessee
-  names: Tennessee
+  names:
+  - Tennessee
   latitude: 35.5174913
   longitude: -86.5804473
   min_latitude: 34.9829239
@@ -431,7 +477,8 @@ TN:
   max_longitude: -81.6469
 TX:
   name: Texas
-  names: Texas
+  names:
+  - Texas
   latitude: 31.9685988
   longitude: -99.9018131
   min_latitude: 25.8371638
@@ -441,7 +488,8 @@ TX:
 UM:
   comments: see also separate entry under UM
   name: United States Minor Outlying Islands
-  names: United States Minor Outlying Islands
+  names:
+  - Îles mineures éloignées des États-Unis
   latitude: 28.2021222
   longitude: -177.3804525
   min_latitude: 28.1963806
@@ -450,7 +498,8 @@ UM:
   max_longitude: -177.3695147
 UT:
   name: Utah
-  names: Utah
+  names:
+  - Utah
   latitude: 39.3209801
   longitude: -111.0937311
   min_latitude: 36.99790309999999
@@ -459,7 +508,8 @@ UT:
   max_longitude: -109.0410581
 VA:
   name: Virginia
-  names: Virginia
+  names:
+  - Virginie
   latitude: 37.4315734
   longitude: -78.6568942
   min_latitude: 36.5407589
@@ -469,12 +519,14 @@ VA:
 VI:
   comments: see also separate entry under VI
   name: Virgin Islands, U.S.
-  names: Virgin Islands, U.S.
+  names:
+  - Îles Vierges Américaines
   latitude: 33.8569878
   longitude: -84.5904089
 VT:
   name: Vermont
-  names: Vermont
+  names:
+  - Vermont
   latitude: 44.5588028
   longitude: -72.57784149999999
   min_latitude: 42.7268499
@@ -483,7 +535,8 @@ VT:
   max_longitude: -71.46503899999999
 WA:
   name: Washington
-  names: Washington
+  names:
+  - Washington
   latitude: 47.7510741
   longitude: -120.7401386
   min_latitude: 45.5485987
@@ -492,7 +545,8 @@ WA:
   max_longitude: -116.91558
 WI:
   name: Wisconsin
-  names: Wisconsin
+  names:
+  - Wisconsin
   latitude: 43.7844397
   longitude: -88.7878678
   min_latitude: 42.491864
@@ -501,7 +555,8 @@ WI:
   max_longitude: -86.7639767
 WV:
   name: West Virginia
-  names: West Virginia
+  names:
+  - Virginie-Occidentale
   latitude: 38.5976262
   longitude: -80.4549026
   min_latitude: 37.2015399
@@ -510,7 +565,8 @@ WV:
   max_longitude: -77.7189679
 WY:
   name: Wyoming
-  names: Wyoming
+  names:
+  - Wyoming
   latitude: 43.0759678
   longitude: -107.2902839
   min_latitude: 40.994746
