@@ -2,7 +2,7 @@
 AA:
   name: Armed Forces Americas
   names:
-  - Forces armées des Amériques
+  - Forces Armées des Amériques
   latitude: 33.8934985
   longitude: -117.2732567
   min_latitude: 33.8403275
@@ -37,7 +37,8 @@ AL:
   max_longitude: -84.888246
 AP:
   name: Armed Forces Pacific
-  names: Les forces armées du Pacifique
+  names:
+  - Forces Armées du Pacifique
 AR:
   name: Arkansas
   names:
